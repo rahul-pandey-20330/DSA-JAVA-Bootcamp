@@ -1,6 +1,6 @@
 // Take positive integer input and
 // tell if it is odd or even
-package gfg;
+
 import java.util.Scanner;
 
 class Oddeven{
